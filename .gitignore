@@ -1,0 +1,11 @@
+# Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+netscanner
+
+# OS generated files
+.DS_Store
+Thumbs.db
